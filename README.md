@@ -1,5 +1,4 @@
 
-````markdown
 # eHealth IoT + Machine Learning Project
 
 Este proyecto simula una aplicación e-Health con sensores IoT y predicción de riesgo mediante ML. Ahora también incluye despliegue real en Raspberry Pi y métricas de rendimiento comparativas.
@@ -20,7 +19,7 @@ Este proyecto simula una aplicación e-Health con sensores IoT y predicción de 
 2. Ejecuta:
    ```bash
    docker-compose up --build
-````
+  ```
 
 3. En otra terminal, entrena el modelo:
 
