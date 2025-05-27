@@ -19,7 +19,7 @@ Este proyecto simula una aplicación e-Health con sensores IoT y predicción de 
 2. Ejecuta:
    ```bash
    docker-compose up --build
-  ```
+   ```
 
 3. En otra terminal, entrena el modelo:
 
