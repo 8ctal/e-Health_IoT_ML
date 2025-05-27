@@ -3,6 +3,8 @@
 # eHealth IoT + Machine Learning Project
 
 Este proyecto simula una aplicación e-Health con sensores IoT y predicción de riesgo mediante ML. Ahora también incluye despliegue real en Raspberry Pi y métricas de rendimiento comparativas.
+## 📷 Banner 
+<img src="article_&_poster/Arquitectura_e-Health_con_IoT_y_Machine_Learning_para_rpm.png" alt="Poster" width="1280" height="720">
 
 ## Componentes
 
