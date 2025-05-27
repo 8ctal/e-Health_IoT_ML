@@ -1,4 +1,3 @@
-Aquí tienes el **README.md** actualizado con la sección de integración en un dispositivo IoT real y el reporte de rendimiento:
 
 ````markdown
 # eHealth IoT + Machine Learning Project
@@ -146,4 +145,3 @@ Se compararon dos escenarios:
 
 ---
 
-Con este README tendrás toda la información para desplegar tanto localmente como en un dispositivo IoT real, y las métricas para comparar rendimiento. Cuando quieras, podemos actualizar el documento LaTeX con estos detalles.
